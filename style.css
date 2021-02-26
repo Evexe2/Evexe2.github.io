@@ -1,0 +1,192 @@
+*{
+	margin:0;
+	padding:0;
+}
+.two-column{
+	display:grid;
+	grid-template-columns: 40% 60%;
+	padding:30px 100px;
+}
+.main-index h1{
+	font-size: 40px;
+    font-weight: 500;
+    color: #73c0c7;
+    margin-top: 150px;
+}
+.main-index p{
+	font-size: 20px;
+    font-weight: 500;
+    color: #057876;
+    margin-top: 10px;
+}
+.cta{
+	padding:30px 0px 0px 0px;
+}
+.cta-select{
+	font-size:20px;
+	color:#73c0c7;
+	padding:10px;
+	background-color:#057876;
+}
+.portfolio{
+	font-size: 50px;
+    color: #057876;
+    margin: 50px 100px 50px 100px;
+	text-align:center;
+	padding:20px;
+	background-color:#73c0c7;
+}
+.three-column{
+	display:grid;
+	grid-template-columns:33% 33% 33%;
+	padding:20px;
+	margin:50px 150px 50px 200px;
+}
+footer{
+	background-color:#88cbd1;
+	height:30px;
+	color:#057876;
+	width:100%;
+	text-align:center;
+	padding:20px;
+}
+footer p {
+	font-size: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+body{
+			
+	font-family:'lobster', cursive;
+	width:100%;
+}
+#container
+			{ 
+	width:1519px;
+	background-color: transparent;
+			}
+#photography{
+	width:400px;
+	border-radius:80px;
+	margin-left:80px;
+		}
+header{
+	padding:0px;
+	font-size:25px; 
+	background-color:#88cbd1;
+}	
+ nav ul {
+  list-style-type: none;
+  overflow: hidden;
+  
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: #057876;
+  text-align: center;
+  padding: 14px 50px;
+  text-decoration: none;
+  margin:0px 90px;
+}
+nav li a:hover {
+  background-color: #72cdd4;
+}
+.main-index{
+	color:#057876;
+	margin-left:50px;
+}
+#me{
+	width:400px;
+	height:500px;
+	border-radius: 80%;
+}
+#flowers{
+	width:300px;
+	height:400px;
+	margin:10px 10px 20px 5px;
+}
+#car{
+	width:300px;
+	height:400px;
+	margin:10px 5px 20px 20px;
+}
+#portrait{
+	width:300px;
+	height:400px;
+	margin:10px 5px 20px 10px;
+}
+#leaves{
+	width:300px;
+	height:400px;
+	margin:20px 10px 5px 5px;
+}
+#boat{
+	width:300px;
+	height:400px;
+	margin:20px 5px 5px 5px;
+}
+#air-balloon{
+	width:300px;
+	height:400px;
+	margin:20px 5px 5px 10px;
+}
+#teatro-aikste{
+	width:500px;
+	height:300px;
+	margin:5px 10px 10px 0px;
+	border-radius:80px;
+}
+#trees{
+	width:300px;
+	height:400px;
+	margin:5px 10px 10px 100px;
+	border-radius: 80px;
+	}
+.main-about{
+	color:#057876;
+}
+.main-about h1{
+	font-size: 40px;
+    font-weight: 500;
+    color: #73c0c7;
+    margin-top: 150px;
+}
+.main-about p{
+	font-size: 20px;
+    font-weight: 500;
+    color: #057876;
+    margin-top: 10px;
+}
+.about-footer{
+	height:20px;
+	padding: 20px 0 100px 0;
+}
+.why{
+	font-size: 50px;
+    color: #057876;
+    margin: 50px 100px 50px 100px;
+	text-align:center;
+	padding:20px;
+	background-color:#73c0c7;
+}
+.details{
+	font-size: 20px;
+    font-weight: 500;
+    color: #057876;
+    margin-top: 100px;
+	text-align:center;
+	margin-left:5px;
+}
+.inspiration{
+	font-size: 20px;
+    font-weight: 500;
+    color: #057876;
+    margin-top: 100px;
+	text-align:center;
+}
